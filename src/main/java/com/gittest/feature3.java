@@ -9,5 +9,6 @@ public class feature3 {
         System.out.println("add commit feature03");
         System.out.println("rebase test");
         System.out.println("rebase test2");
+        System.out.println("rebase test3");
     }
 }
