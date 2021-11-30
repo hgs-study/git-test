@@ -10,5 +10,8 @@ public class feature3 {
         System.out.println("rebase test");
         System.out.println("rebase test2");
         System.out.println("rebase test3");
+        System.out.println("squash test1");
+        System.out.println("squash test2");
+        System.out.println("squash test3");
     }
 }
