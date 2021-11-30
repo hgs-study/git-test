@@ -5,5 +5,6 @@ public class feature02 {
         System.out.println("feature02");
         System.out.println("add commit feature02");
         System.out.println("add commit feature02");
+        System.out.println("add commit feature02");
     }
 }
